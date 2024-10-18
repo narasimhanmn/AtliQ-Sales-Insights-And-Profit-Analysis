@@ -3,9 +3,6 @@
 ## Project Overview:
 This initiative was driven by the need to tackle the sales challenges faced by Atiq Hardware, a distinguished provider of computer hardware and peripherals, with a network of branches across India. The sales director grappled with understanding business performance and identifying persistent issues amidst declining sales. Communication with regional managers relied on verbal updates and a flurry of Excel files, causing mounting frustration.
 
-## Live Dashboard
-Explore the live dashboard [here](https://github.com/narasimhanmn/AtliQ-Sales-Insights-And-Profit-Analysis/tree/main/Images).
-
 ## Solution:
 Our response was the development of a dynamic Power BI Dashboard, meticulously curated by our team of Data Analysts. This dashboard breathes life into raw data, rendering it engaging visuals, thereby empowering insightful decision-making.
 
